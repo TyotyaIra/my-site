@@ -4,8 +4,8 @@ body {
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #222222;
-  background-color: #f2f4f6;
+  color: #6494ed;
+  background-color: #f0f4f5;
   background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
@@ -176,7 +176,7 @@ body {
 }
 
 .page-footer a {
-  margin-left: 56px;
+  margin-left: 3px;
   color: inherit;
   text-decoration: none;
   background-repeat: no-repeat;
